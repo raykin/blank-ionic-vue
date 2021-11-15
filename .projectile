@@ -1,0 +1,7 @@
+-*.spec.ts
+-/node_modules
+-/platforms
+-/plugins
+-/dist
+-/ios
+-/www
